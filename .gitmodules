@@ -1,0 +1,3 @@
+[submodule "lava-engine"]
+	path = lava-engine
+	url = git@github.com:cymes1/lava-engine.git
